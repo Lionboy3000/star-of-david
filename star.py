@@ -2,7 +2,7 @@ import turtle
  
 star = turtle.Turtle()
  
-star.fillcolor("yellow")
+star.fillcolor("blue")
 star.begin_fill()
 for i in range(5):
     star.forward(100)
